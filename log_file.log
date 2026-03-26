@@ -1,0 +1,7 @@
+2026-03-26 18:19:18,471 - INFO - Data fetched successfully
+2026-03-26 18:19:18,588 - ERROR - DB Connection failed: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-03-26 18:20:20,119 - INFO - Data fetched successfully
+2026-03-26 18:20:20,240 - INFO - Connected to database
+2026-03-26 18:20:20,326 - INFO - Inserted 437 characters
+2026-03-26 18:20:20,326 - INFO - Inserted 77 spells
